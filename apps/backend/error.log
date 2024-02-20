@@ -1,0 +1,14 @@
+2024-02-19T23:06:04.095Z [31merror[39m: 	[31mVideo Url Invalid xJGknPWd0mo : Error: Attribute THREAT does not support request languages: und[39m
+2024-02-19T23:07:47.851Z [31merror[39m: 	[31mVideo Url Invalid xJGknPWd0mo : Error: Attribute THREAT does not support request languages: und[39m
+2024-02-19T23:11:59.182Z [31merror[39m: 	[31mVideo Url Invalid xUPH4YLKY_4 : Error: Attribute PROFANITY does not support request languages: ceb[39m
+2024-02-19T23:12:03.312Z [31merror[39m: 	[31mVideo Url Invalid xUPH4YLKY_4 : Error: Attribute TOXICITY does not support request languages: ceb[39m
+2024-02-19T23:12:28.487Z [31merror[39m: 	[31mVideo Url Invalid xUPH4YLKY_4 : Error: Attribute TOXICITY does not support request languages: ceb[39m
+2024-02-19T23:14:21.651Z [31merror[39m: 	[31mVideo Url Invalid E3a11Xi4YH0 : Error: Attribute PROFANITY does not support request languages: bm[39m
+2024-02-19T23:19:53.936Z [31merror[39m: 	[31mVideo Url Invalid xUPH4YLKY_4 : Error: Attribute IDENTITY_ATTACK does not support request languages: ceb[39m
+2024-02-19T23:20:16.324Z [31merror[39m: 	[31mVideo Url Invalid xUPH4YLKY_4 : Error: Attribute INSULT does not support request languages: ceb[39m
+2024-02-19T23:28:05.106Z [31merror[39m: 	[31mVideo Url Invalid xUPH4YLKY_4 : Error: Attribute TOXICITY does not support request languages: ceb[39m
+2024-02-19T23:29:26.335Z [31merror[39m: 	[31mVideo Url Invalid xUPH4YLKY_4 : Error: Attribute TOXICITY does not support request languages: ceb[39m
+2024-02-19T23:29:51.405Z [31merror[39m: 	[31mVideo Url Invalid xUPH4YLKY_4 : Error: Attribute THREAT does not support request languages: ceb[39m
+2024-02-19T23:30:56.819Z [31merror[39m: 	[31mVideo Url Invalid xUPH4YLKY_4 : Error: Attribute TOXICITY does not support request languages: ceb[39m
+2024-02-19T23:31:11.907Z [31merror[39m: 	[31mVideo Url Invalid xUPH4YLKY_4 : Error: Attribute IDENTITY_ATTACK does not support request languages: ceb[39m
+2024-02-19T23:54:43.896Z [31merror[39m: 	[31mVideo Url Invalid xUPH4YLKY_4 : SyntaxError: "[object Object]" is not valid JSON[39m
